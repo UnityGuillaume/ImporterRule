@@ -1,7 +1,5 @@
 Allow to define custom import rules for texture & model define on name.
 
-![Screenshot](screen.png)
-
 Step to use :
 - Copy ImportManager folder inside your project
 - In the Asset > Create menu (or right click in project) you have a new Importer/Config asset. Create one (recommended on a folder of its own as it will create a folder for its config)
