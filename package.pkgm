@@ -1,8 +1,6 @@
-[
-  {
-    "name" : "Importer Rules",
-    "description" : "Allow to define rules to auto set parameters on asset import",
-    "rootFolder": "ImportManager",
-    "installName": "ImporterRule"
-  }
-]
+{
+  "name" : "Importer Rules",
+  "description" : "Allow to define rules to auto set parameters on asset import",
+  "rootFolder": "ImportManager",
+  "installName": "ImporterRule"
+}
